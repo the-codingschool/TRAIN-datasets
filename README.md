@@ -6,4 +6,4 @@ Instead of using the sklearn datasets repeatedly, these datasets can be useful w
 
 They are uploaded here for easy access when creating a colab. Check the accompanying dictionary for information on *what types of models they are usable for*, the columns names/info, and any additional helpful information. 
 
-If you want to use the links including in the dictionary, *download the PDF* and then you should be able to click on any links embedded.
+If you want to use the links included in the dictionary, *download the PDF* and then you should be able to click on any links embedded.
