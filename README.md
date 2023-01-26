@@ -8,4 +8,4 @@ They are uploaded here for easy access when creating a colab. Check the accompan
 
 If you want to use the links included in the dictionary, *download the PDF* and then you should be able to click on any links embedded.
 
-A spreadsheet with information on which dataset can be used with what models can be found [here (https://docs.google.com/spreadsheets/d/1gHRwt7FO3a9HIeLHbS8BwBTv2iAr9573yLWl8f1TbXo/edit?usp=sharing). ***If you add any datasets, please update the spreadsheet!***
+A spreadsheet with information on which dataset can be used with what models can be found [here] (https://docs.google.com/spreadsheets/d/1gHRwt7FO3a9HIeLHbS8BwBTv2iAr9573yLWl8f1TbXo/edit?usp=sharing). ***If you add any datasets, please update the spreadsheet!***
