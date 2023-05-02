@@ -5,8 +5,11 @@ This data set was pulled from [UCI](https://archive.ics.uci.edu/ml/datasets/Auto
 2. Its assigned insurance risk rating
 3. Its normalized losses in use as compared to other cars
 
+<br>
+
 Cars are initially assigned a risk factor symbol associated with its price. A value of +3 indicates that the auto is risky, -3 that it is probably pretty safe.
 
+<br>
 It also contains the following information for each car:
 1. symboling
 2. normalized-losses
