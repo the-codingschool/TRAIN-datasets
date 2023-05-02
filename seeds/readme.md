@@ -20,8 +20,6 @@ You can us the following code to load the data into google colaboratory:
 ```
 import pandas as pd
 url = "https://raw.githubusercontent.com/the-codingschool/TRAIN/main/seeds/seeds.csv"
-df = pd.read_csv(url,
-sep = " ",
-names = ["area", "perimeter", "compactness", "length", "width",
+df = pd.read_csv(url, sep = " ", names = ["area", "perimeter", "compactness", "length", "width",
 "asymmestry_coeff", "length_groove", "target"])
 ```
