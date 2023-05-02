@@ -16,8 +16,9 @@ This data set was pulled from Kaggle. It also contains the following information
 This dataset is good for linear regression to predict “count.”
 
 You can use the following code to load the data into google colaboratory:
-import pandas as pd
+
 ```
+import pandas as pd
 url = "https://raw.githubusercontent.com/the-codingschool/TRAIN/main/bikes/bike_share.csv"
 df = pd.read_csv(url)
 ```
