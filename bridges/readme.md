@@ -31,8 +31,8 @@ a. WOOD, SUSPEN (Suspension), SIMPLE-T (Simple Truss), ARCH, CANTILEV
 (Cantilever), CONT-T (Continuous Truss)
 
 <br>
-This dataset is good for classification. This dataset also requires come cleaning as it contains
-NaN values.
+This dataset is good for classification. The cleaned version is `bridge_cleaned.csv`.
+
 You can use the following code to load the data into google colaboratory:
 
 ```

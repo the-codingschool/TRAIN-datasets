@@ -11,6 +11,7 @@ Cars are initially assigned a risk factor symbol associated with its price. A va
 
 <br>
 It also contains the following information for each car:
+
 1. symboling
 2. normalized-losses
 3. make
@@ -38,7 +39,7 @@ It also contains the following information for each car:
 25. highway-mpg
 26. price
 
-This dataset is great for regression. This dataset also requires come cleaning as it contains NaN values.
+This dataset is great for regression. The cleaned version is `cars_cleaned.csv`.
 
 You can use the following code to load the data into google colaboratory:
 
