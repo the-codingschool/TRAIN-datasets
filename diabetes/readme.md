@@ -1,4 +1,4 @@
-# 
+# Diabetes
 
 Use the following to load the data:
 ```
