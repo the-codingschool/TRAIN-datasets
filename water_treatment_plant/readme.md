@@ -47,7 +47,7 @@ You can use the following code to load the data into google colaboratory:
 
 ```
 import pandas as pd
-url = "https://raw.githubusercontent.com/the-codingschool/TRAIN/main/water%20treatment%20plant/water.csv"
+url = "https://raw.githubusercontent.com/the-codingschool/TRAIN/main/water_treatment_plant/water.csv"
 df = pd.read_csv(url,
 names = ["Date", "Q-E", "ZN-E", "PH-E", "DBO-E", "DQO-E", "SS-E", "SSV-E", "SED-E",
 "COND-E", "PH-P", "DBO-P", "SS-P", "SSV-P", "SED-P", "COND-P", "PH-D", "DBO-D",
