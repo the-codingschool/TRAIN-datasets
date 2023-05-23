@@ -8,7 +8,7 @@ ML Algorithms:
 1. Regression Algorithms: Regression models can be employed to predict the price of Airbnb listings based on various features such as neighborhood, room type, and availability.
 2. Classification Algorithms: Classification algorithms can be used to categorize listings into different groups based on criteria such as neighborhood group, room type, or host characteristics.
 3. Clustering Algorithms: Clustering algorithms can help identify patterns and group similar listings together based on various attributes like location, price range, or availability.
-
+```
 To import messy dataset:
 import pandas as pd
 url = "https://raw.githubusercontent.com/the-codingschool/TRAIN-datasets/main/airbnb_nyc/listings.csv"
@@ -18,3 +18,4 @@ To import cleaned dataset:
 import pandas as pd
 url = "https://raw.githubusercontent.com/the-codingschool/TRAIN-datasets/main/airbnb_nyc/listings_cleaned.csv"
 df = pd.read_csv(url)
+```
