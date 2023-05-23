@@ -1,5 +1,7 @@
+Dataset description:
 
-# Bike Share
+Cleaned dataset, easy difficulty
+
 This data set was pulled from Kaggle. It also contains the following information for each sample:
 1. datetime
 2. count
@@ -13,7 +15,8 @@ This data set was pulled from Kaggle. It also contains the following information
 10. wind_speed
 11. weather_main
 
-This dataset is good for linear regression to predict “count.”
+ML Algorithms:
+1. Linear regression: This dataset is good for linear regression to predict “count".
 
 You can use the following code to load the data into google colaboratory:
 
