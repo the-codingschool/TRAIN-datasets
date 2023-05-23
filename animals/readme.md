@@ -25,7 +25,7 @@ ML Algorithms:
 
 To import the dataset:
 ```
-import pandas aspd
+import pandas as pd
 url = "https://raw.githubusercontent.com/the-codingschool/TRAIN/main/animals/zoo_animals.csv"
 df = pd.read_csv(url)
 ```
