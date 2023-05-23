@@ -1,5 +1,6 @@
+Dataset description:
 
-# Pittsburgh Bridges
+Cleaned/messy datasets, moderate difficulty
 
 This data set was pulled from [UCI](https://archive.ics.uci.edu/ml/datasets/Pittsburgh+Bridges). It also contains the following information for each bridge:
 1. Id - bridge’s identifier
@@ -31,7 +32,9 @@ a. WOOD, SUSPEN (Suspension), SIMPLE-T (Simple Truss), ARCH, CANTILEV
 (Cantilever), CONT-T (Continuous Truss)
 
 <br>
-This dataset is good for classification. The cleaned version is `bridge_cleaned.csv`.
+
+ML Algorithms:
+1. Classifcation
 
 You can use the following code to load the data into google colaboratory:
 
