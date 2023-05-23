@@ -10,13 +10,11 @@ ML Algorithms:
 3. Clustering Algorithms: Clustering algorithms can help identify patterns and group similar listings together based on various attributes like location, price range, or availability.
 
 To import messy dataset:
-
 import pandas as pd
 url = "https://raw.githubusercontent.com/the-codingschool/TRAIN-datasets/main/airbnb_nyc/listings.csv"
 df = pd.read_csv(url)
 
 To import cleaned dataset:
-
 import pandas as pd
 url = "https://raw.githubusercontent.com/the-codingschool/TRAIN-datasets/main/airbnb_nyc/listings_cleaned.csv"
 df = pd.read_csv(url)
