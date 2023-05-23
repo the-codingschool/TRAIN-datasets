@@ -1,6 +1,9 @@
-# Australia Weather
+Dataset description:
 
-This data set was pulled from Kaggle. It contains the following information for each instance:
+Cleaned dataset, moderate difficulty
+
+The dataset includes various weather-related information for each instance, such as location, wind speed, humidity, pressure, temperature, rain today, and rain tomorrow. The dataset can be used for predicting whether it will rain on a given day based on the temperature and pressure recorded at 9 am.
+
 1. Location
 2. WindSpeed
 3. Humidity
@@ -9,9 +12,8 @@ This data set was pulled from Kaggle. It contains the following information for 
 6. RainToday
 7. RainTomorrow
 
-This is a very large Australian weather dataset. It can be used to predict if it will rain today based
-on temperature and pressure at 9 am. KNN can get roughly 70 - 85% accuracy. This version has
-88,884 instances.
+ML Algorithms: 
+1. Classification: KNN
 
 You can use the following code to load the data into google colaboratory:
 ```
