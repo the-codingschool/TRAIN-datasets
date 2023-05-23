@@ -1,4 +1,6 @@
-# Cars
+Dataset description:
+
+Cleaned/messy dataset, moderate difficulty
 
 This data set was pulled from [UCI](https://archive.ics.uci.edu/ml/datasets/Automobile). It contains the following information:
 1. The specification of an auto in terms of various characteristics
@@ -39,7 +41,10 @@ It also contains the following information for each car:
 25. highway-mpg
 26. price
 
-This dataset is great for regression. The cleaned version is `cars_cleaned.csv`.
+
+ML Algorithms:
+
+1. Linear regression
 
 You can use the following code to load the data into google colaboratory:
 
