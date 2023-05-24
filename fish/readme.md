@@ -1,4 +1,7 @@
-# Fish Market
+Dataset description:
+
+Cleaned dataset, moderate difficulty
+
 This data set was pulled from Kaggle. It also contains the following information for each sample:
 1. Species
 2. Weight
@@ -9,8 +12,12 @@ This data set was pulled from Kaggle. It also contains the following information
 7. Width
 8. Price
 
+ML Algorithms:
+1. Classification
+2. Linear regression 
 
-Note that the price column is artificial so this should just be used for practice, not drawing conclusions. This dataset is good for classification or linear regression.
+
+Note that the price column is artificial so this should just be used for practice, not drawing conclusions. 
 
 You can use the following code to load the data into google colaboratory:
 
