@@ -1,4 +1,11 @@
-# Study Hours
+Dataset description:
+
+Cleaned dataset, easy difficulty
+
+This dataset lists the number of hours spent studying and the resulting test score.
+
+ML Algorithm:
+1. Linear regression
 
 Use the following to load the data:
 ```
