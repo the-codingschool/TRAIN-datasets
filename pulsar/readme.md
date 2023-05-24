@@ -1,6 +1,6 @@
 Dataset description:
 
-Cleaned dataset, easy difficulty
+Cleaned dataset, advanced difficulty
 
 This data set was pulled from Kaggle. It also contains the following information for each sample:
 1. mean
