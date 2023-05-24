@@ -1,5 +1,6 @@
+Dataset description:
 
-# Physicochemical Properties of Protein Tertiary Structure
+Cleaned, moderate difficulty
 
 This data set was pulled from [UCI](https://archive.ics.uci.edu/ml/datasets/Physicochemical+Properties+of+Protein+Tertiary+Structure). This dataset contains the following information for each
 instance:
@@ -14,6 +15,8 @@ instance:
 9. F8 - Secondary structure penalty.
 10. F9 - Spacial Distribution constraints (N,K Value).
 
+ML Algorithms:
+1. Regression
 This data is good for regression. You can implement in several ways, but can have students experiment with attributes F1-F9 to predict RMSD.
 You can use the following code to load the data into google colaboratory:
 ```
