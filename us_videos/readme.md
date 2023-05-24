@@ -26,6 +26,7 @@ This dataset provides insights into the popularity, engagement, and characterist
 
 ML Algorithms:
 1. Linear regression
+2. KNN
 
 ```
 import pandas as pd
