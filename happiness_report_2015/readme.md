@@ -15,6 +15,7 @@ The 2015 Happiness Report dataset provides information on various factors contri
 9. Generosity: The extent to which individuals are inclined to help others and exhibit acts of generosity.
 This dataset allows for the exploration and analysis of factors that contribute to happiness across different countries. It provides insights into the relationship between economic factors, social support, health, freedom, corruption perception, and generosity, and their influence on overall happiness scores.
 
+ML algorithms:
 1. Linear regression
 
 Use the following to load the data:
