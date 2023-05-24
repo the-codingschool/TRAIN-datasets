@@ -1,5 +1,6 @@
+Dataset description:
 
-# Stars by Type
+Cleaned dataset, easy difficulty
 
 This data set was pulled from Kaggle. It also contains the following information for each sample:
 1. temperature
