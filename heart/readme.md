@@ -1,5 +1,7 @@
+Dataset description:
 
-# SPECT Heart
+Cleaned dataset, moderate difficulty
+
 This data set was pulled from [UCI](https://archive.ics.uci.edu/ml/datasets/SPECTF+Heart). The dataset describes diagnosing cardiac Single Proton Emission Computed Tomography (SPECT) images. Each instance has a classification: normal or abnormal. The original images were processed to obtain 22 binary feature patterns. The CLIP3 algorithm was used to generate classification rules from these patterns. The CLIP3 algorithm generated rules that were 84.0% accurate (as compared with cardilogists' diagnoses). This dataset contains the following information for each instance:
 1. OVERALL_DIAGNOSIS: 0,1 (class attribute, binary)
 2. F1: 0,1 (the partial diagnosis 1, binary)
@@ -25,8 +27,11 @@ This data set was pulled from [UCI](https://archive.ics.uci.edu/ml/datasets/SPEC
 22. F21: 0,1 (the partial diagnosis 21, binary)
 23. F22: 0,1 (the partial diagnosis 22, binary)
 
-This dataset has been already split into testing and training data. You will need to upload both.
-Training has 80 instances and the testing has 187 instances. This data is good for classification.
+ML Algorithms:
+1. Classification: This dataset has been already split into testing and training data. You will need to upload both.
+Training has 80 instances and the testing has 187 instances. 
+
+
 You can use the following code to load the data into google colaboratory:
 
 ```
