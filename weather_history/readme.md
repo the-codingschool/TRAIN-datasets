@@ -23,6 +23,6 @@ ML Algorithms:
 
 ```
 import pandas as pd
-url = "https://raw.githubusercontent.com/the-codingschool/TRAIN/main/credit_card_fraud/card_transdata.csv"
+url = "https://raw.githubusercontent.com/the-codingschool/TRAIN-datasets/main/weather_history/weatherHistory.csv"
 df = pd.read_csv(url)
 ```
