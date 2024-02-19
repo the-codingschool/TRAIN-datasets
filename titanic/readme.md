@@ -25,6 +25,6 @@ ML algorithms:
 You can use the following code to load the data into google colaboratory:
 ```
 import pandas as pd
-url = "https://raw.githubusercontent.com/the-codingschool/TRAIN/main/banknote/banknote.csv"
+url = "https://github.com/the-codingschool/TRAIN-datasets/raw/main/titanic/titanic_raw.csv"
 df = pd.read_csv(url)
 ```
