@@ -22,9 +22,16 @@ This data set was pulled from [Kaggle](https://www.kaggle.com/datasets/pavlofese
 ML algorithms:
 1. Classification of Survived variable
 
-You can use the following code to load the data into google colaboratory:
+You can use the following code to load the *raw* data into google colaboratory:
 ```
 import pandas as pd
 url = "https://github.com/the-codingschool/TRAIN-datasets/raw/main/titanic/titanic_raw.csv"
+df = pd.read_csv(url)
+```
+
+You can use the following code to load the *clean* data into google colaboratory:
+```
+import pandas as pd
+url = "https://github.com/the-codingschool/TRAIN-datasets/raw/main/titanic/titanic_cleaned.csv"
 df = pd.read_csv(url)
 ```
