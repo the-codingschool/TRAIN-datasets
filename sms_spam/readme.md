@@ -1,4 +1,8 @@
-Dataset description:
+### 🔴 **This dataset is probably unsuitable for K-12 learners!**
+- Contains real text messages, some with references to substances, lewd behavior, etc
+
+<br></br>
+**Dataset description:**
 
 Source: [Kaggle](https://www.kaggle.com/datasets/thedevastator/sms-spam-collection-a-more-diverse-dataset?select=train.csv)
 
