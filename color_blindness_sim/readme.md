@@ -1,17 +1,21 @@
 **Dataset description:**
 
-**Source:** This is technically an original dataset created using the RGB data from [color_classification](https://github.com/the-codingschool/TRAIN-datasets/tree/55eea059bad896766141cf09397af94c7ffc5e52/color_blindness_sim) and other tools.
+**Source:** This is technically an original dataset created using the RGB data from [color_classification](https://github.com/the-codingschool/TRAIN-datasets/tree/main/color_blindness_sim) and other tools.
 
 - Original normal vision colors are from the [color classification dataset](https://raw.githubusercontent.com/the-codingschool/TRAIN/main/color_classification/color_data.csv).
 
 - Simulated RGB colors were calculated and extracted from this [color blindness simulator by David Nichols](https://davidmathlogic.com/colorblind/).
 
 
+<br />
+
+Clean, moderate difficulty dataset, but the notebook makes heavier use of python programming.
+
 
 This folder contains three files:
 - `color_blind_RGB.csv` - **Recommended** Contains 5053 color samples broken down into their RGB representations for 4 vision types: true (normal vision), prot (protanopia), deut (deuteranopia), and trit (tritanopia).
 - `color_blind_HEX.csv` - Contains the same color samples except all RGB values are condensed into hex codes. This version of the data is not referenced in the notebook and is only here just in case.
-- `simulate_vision_deficiency.ipynb` - (open to renaming this file) Outlines a project in which students train a regression model to predict how colors appear to individuals with different forms color blindness. This also includes output styling instructions for visual evaluation. After training a model, students move on to assessing the accessibility of color combinations (palettes) using color difference metrics. 
+- `vision_deficiency_and_accessibility.ipynb` - Outlines a project in which students train a regression model to predict how colors appear to individuals with different forms color blindness. This also includes output styling instructions for visual evaluation. After training a model, students move on to assessing the accessibility of color combinations (palettes) using color difference metrics. 
 
 
 The dataset in `color_blind_RGB.csv` has the following 12 attributes (each vision type has 3 attributes pertaining to it): 
