@@ -2,7 +2,7 @@ Dataset description:
 
 Cleaned dataset, moderate difficulty
 
-This data set was pulled from [UCI](https://archive.ics.uci.edu/ml/datasets/banknote+authentication). It was collected by photos or genuine and forged banknotes. A Wavelet Transform tool was then used on the images to get the following attributes for each
+This data set was pulled from [UCI](https://archive.ics.uci.edu/ml/datasets/banknote+authentication). It was collected by photos of genuine and forged banknotes. A Wavelet Transform tool was then used on the images to get the following attributes for each
 sample:
 1. variance of Wavelet Transformed image (continuous)
 2. skewness of Wavelet Transformed image (continuous)
