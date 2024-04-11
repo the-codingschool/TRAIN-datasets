@@ -18,7 +18,7 @@
 
 |     |     |     |
 | --: | --- | --- |
-|  1. | name | Name of the country concerned |
+|  1. | name | Name of the country (or territory) |
 |  2. | landmass | 1=North America, 2=South America, 3=Europe, 4=Africa, 5=Asia, 6=Oceania |
 |  3. | zone | Geographic quadrant, based on Greenwich and the Equator 1=NE, 2=SE, 3=SW, 4=NW |
 |  4. | area | in thousands of square km |
@@ -35,9 +35,9 @@
 | 15. | white | ^^ |
 | 16. | black | ^^ |
 | 17. | orange |  ^^ (also brown) |
-| 18. | mainhue | predominant colour in the flag (tie-breaks decided by taking the topmost hue, if that fails then the most central hue, and if that fails the leftmost hue) |
+| 18. | mainhue | Predominant color in the flag (tie-breaks decided by taking the topmost hue, if that fails then the most central hue, and if that fails the leftmost hue) |
 | 19. | circles |  Number of circles in the flag |
-| 20. | crosses | Number of (upright) crosses |
+| 20. | crosses | Number of upright crosses |
 | 21. | saltires | Number of diagonal crosses |
 | 22. | quarters | Number of quartered sections |
 | 23. | sunstars | Number of sun or star symbols |
@@ -46,8 +46,8 @@
 | 26. | icon | 1 if an inanimate image present (e.g., a boat), otherwise 0 |
 | 27. | animate | 1 if an animate image (e.g., an eagle, a tree, a human hand) present, 0 otherwise |
 | 28. | text | 1 if any letters or writing on the flag (e.g., a motto or slogan), 0 otherwise |
-| 29. | topleft | colour in the top-left corner (moving right to decide tie-breaks) |
-| 30. | botright | Colour in the bottom-right corner (moving left to decide tie-breaks) |
+| 29. | topleft | Color in the top-left corner (moving right to decide tie-breaks) |
+| 30. | botright | Color in the bottom-right corner (moving left to decide tie-breaks) |
 
 <br />
 
@@ -56,6 +56,10 @@ Good for EDA / data visualizations.
 ML Algorithms:
 - Random Forest Classifier
 - Decision Tree Classifier
+- Clustering?
+
+Additional Applications:
+- Could eventually be extended for Image Classification/Recognition applications??
 
 <br />
 
