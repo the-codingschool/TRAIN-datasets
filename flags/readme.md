@@ -2,7 +2,7 @@
 
 **Sources:**
 - [UCI](https://archive.ics.uci.edu/dataset/40/flags) - *"Collected primarily from the Collins Gem Guide to Flags: Collins Publishers (1986)."*
-- Flag image links - [World Flag Chart](https://flaglog.com)
+- Flag image links were pulled from [World Flag Chart](https://flaglog.com)
 
 <br />
 
