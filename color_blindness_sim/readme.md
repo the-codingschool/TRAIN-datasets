@@ -15,7 +15,7 @@ Clean, moderate difficulty dataset, but the notebook makes heavier use of python
 This folder contains three files:
 - `color_blind_RGB.csv` - **Recommended** Contains 5053 color samples broken down into their RGB representations for 4 vision types: true (normal vision), prot (protanopia), deut (deuteranopia), and trit (tritanopia).
 - `color_blind_HEX.csv` - Contains the same color samples except all RGB values are condensed into hex codes. This version of the data is not referenced in the notebook and is only here just in case.
-- `vision_deficiency_and_accessibility.ipynb` - Outlines a project in which students train a regression model to predict how colors appear to individuals with different forms color blindness. This also includes output styling instructions for visual evaluation. After training a model, students move on to assessing the accessibility of color combinations (palettes) using color difference metrics. 
+- `vision_deficiency_and_accessibility.ipynb` - Outlines a project in which students train a regression model to predict how colors appear to individuals with different forms color blindness. This also includes output styling instructions for visual evaluation. After training a model, students move on to assessing the accessibility of color combinations (palettes) using color difference metrics. Finally, part 3 outlines the necessary steps to simulate entire images for the three vision deficiency types.
 
 
 The dataset in `color_blind_RGB.csv` has the following 12 attributes (each vision type has 3 attributes pertaining to it): 
