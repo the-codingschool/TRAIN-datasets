@@ -71,4 +71,8 @@ This comprehensive dataset provides a wide-ranging overview of global education,
 import pandas as pd
 url = "https://raw.githubusercontent.com/the-codingschool/TRAIN/main/global_education/Global_Education.csv"
 df = pd.read_csv(url)
+
+# For second CSV (classification by gender)
+url = "https://raw.githubusercontent.com/the-codingschool/TRAIN/main/global_education/global_education_class.csv"
+df = pd.read_csv(url)
 ```
