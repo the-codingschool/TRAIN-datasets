@@ -1,6 +1,6 @@
 **Dataset description:**
 
-This meticulously curated dataset offers a panoramic view of education on a global scale , delivering profound insights into the dynamic landscape of education across diverse countries and regions. Spanning a rich tapestry of educational aspects, it encapsulates crucial metrics including out-of-school rates, completion rates, proficiency levels, literacy rates, birth rates, and primary and tertiary education enrollment statistics. A treasure trove of knowledge, this dataset is an indispensable asset for discerning researchers, dedicated educators, and forward-thinking policymakers, enabling them to embark on a transformative journey of assessing, enhancing, and reshaping education systems worldwide. *(from Kaggle)*
+This comprehensive dataset provides a wide-ranging overview of global education, offering deep insights into the evolving educational environments across various countries and regions. It includes essential data covering a broad spectrum of educational indicators, such as out-of-school rates, completion rates, proficiency levels, literacy rates, birth rates, and enrollment statistics for primary and tertiary education. This rich resource serves as a crucial tool for researchers, educators, and policymakers who are committed to analyzing, improving, and reforming educational systems around the world.
 
 <br />
 
@@ -8,11 +8,18 @@ This meticulously curated dataset offers a panoramic view of education on a glob
 
 <br />
 
-**Attribute Information:**
+**Files:**
+
+- `Global_Education.csv` - **Original, cleaned dataset**. Ideal for regression tasks, no classification.
+- `global_education_class.csv` - Unlike the original, there are no separate columns for Male/Female distinction, instead the number of rows is doubled (one row with female stats, another with male stats) and there is an added column **"Gender"** where Female=1 and Male=0. Ideal use would be for ML classification by Gender and other regression tasks.
+
+<br />
+
+**Attribute Information:** For Global_Education.csv
 
 |      |      |      |
 | :--: | :--- | :--- |
-| 1 | Countries and areas | Name of the countries and areas |
+| 1 | Country | Name of the countries and areas |
 | 2 | Latitude  | Latitude coordinates of the geographical location |
 | 3 | Longitude | Longitude coordinates of the geographical location |
 | 4 | OOSR_Pre0Primary_Age_Male | Out-of-school rate for pre-primary age males |
@@ -45,7 +52,8 @@ This meticulously curated dataset offers a panoramic view of education on a glob
 <br />
 
 **ML Applications:**
-- Regression
+- Regression (Logistic?, DecisionTree, RandomForest)
+- Classification
 
 <br />
 
