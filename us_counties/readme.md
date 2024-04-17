@@ -11,6 +11,8 @@
 
 <br />
 
+**Note:** Some counties may appear to be duplicates with similar names, this is NOT a mistake. Double check the associated state as many states have counties with the same name. In other instances, several larger cities started out being part of a county of the same name but eventually grew too big and broke off to become its own county (ex: Baltimore). In these cases, the city that broke off is labelled "Baltimore City" while the original county is still just "Baltimore".
+
 **Attribute Information:**
 
 |     |     |     |
