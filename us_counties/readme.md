@@ -18,8 +18,8 @@
 |  1. | county | Name of the county |
 |  2. | state | State abbreviation *(ex: NY, CA, TX)* |
 |  3. | population | An estimate of the county's population (as of Feb 2024) |
-|  4. | latitude | Latitude of the county |
-|  5. | longitude | Longitude of the county |
+|  4. | latitude | Latitude of the county (approx center point) |
+|  5. | longitude | Longitude of the county (approx center point) |
 
 <br />
 
