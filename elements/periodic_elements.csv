@@ -1,0 +1,118 @@
+name,symbol,atomic_number,atomic_weight,period,group,block,category,phase,melting_point,boiling_point,electronegativity,atomic_radius,covalent_radius,at_t_(k)
+Hydrogen,H,1,1.008,1,1,s,Reactive nonmetal,gas,13.99,20.271,2.2,53.0,31.0,
+Helium,He,2,4.0026022,1,18,s,Noble gas,gas,0.95,4.222,0.0,31.0,28.0,
+Lithium,Li,3,6.94,2,1,s,Alkali metal,solid,453.65,1603.0,0.98,152.0,128.0,797.0
+Beryllium,Be,4,9.01218315,2,2,s,Alkaline earth metal,solid,1560.0,2742.0,1.57,112.0,96.0,1462.0
+Boron,B,5,10.81,2,13,p,Metalloid,solid,2349.0,4200.0,2.04,90.0,84.0,2348.0
+Carbon,C,6,12.011,2,14,p,Reactive nonmetal,solid,3823.15,4300.0,2.55,67.0,77.0,
+Nitrogen,N,7,14.007,2,15,p,Reactive nonmetal,gas,63.15,77.355,3.04,56.0,71.0,37.0
+Oxygen,O,8,15.999,2,16,p,Reactive nonmetal,gas,54.36,90.188,3.44,48.0,66.0,
+Fluorine,F,9,18.99840316,2,17,p,Reactive nonmetal,gas,53.48,85.03,3.98,42.0,64.0,38.0
+Neon,Ne,10,20.17976,2,18,p,Noble gas,gas,24.56,27.104,0.0,38.0,58.0,12.0
+Sodium,Na,11,22.98976928,3,1,s,Alkali metal,solid,370.944,1156.09,0.93,186.0,166.0,554.0
+Magnesium,Mg,12,24.305,3,2,s,Alkaline earth metal,solid,923.0,1363.0,1.31,160.0,141.0,701.0
+Aluminum,Al,13,26.98153857,3,13,p,Post-transition metal,solid,933.47,2743.0,1.61,143.0,121.0,1482.0
+Silicon,Si,14,28.085,3,14,p,Metalloid,solid,1687.0,3538.0,1.9,111.0,111.0,1908.0
+Phosphorus,P,15,30.973762,3,15,p,Reactive nonmetal,solid,317.35,553.65,2.19,98.0,107.0,455.0
+Sulfur,S,16,32.06,3,16,p,Reactive nonmetal,solid,388.36,717.8,2.58,87.0,105.0,375.0
+Chlorine,Cl,17,35.45,3,17,p,Reactive nonmetal,gas,171.6,239.11,3.16,79.0,102.0,128.0
+Argon,Ar,18,39.9481,3,18,p,Noble gas,gas,83.81,87.302,0.0,71.0,106.0,
+Potassium,K,19,39.09831,4,1,s,Alkali metal,solid,336.7,1032.0,0.82,227.0,203.0,
+Calcium,Ca,20,40.0784,4,2,s,Alkaline earth metal,solid,1115.0,1757.0,1.0,197.0,176.0,864.0
+Scandium,Sc,21,44.9559085,4,3,d,Transition metal,solid,1814.0,3109.0,1.36,162.0,170.0,1645.0
+Titanium,Ti,22,47.8671,4,4,d,Transition metal,solid,1941.0,3560.0,1.54,147.0,160.0,1982.0
+Vanadium,V,23,50.94151,4,5,d,Transition metal,solid,2183.0,3680.0,1.63,134.0,153.0,2101.0
+Chromium,Cr,24,51.99616,4,6,d,Transition metal,solid,2180.0,2944.0,1.66,128.0,139.0,1656.0
+Manganese,Mn,25,54.9380443,4,7,d,Transition metal,solid,1519.0,2334.0,1.55,127.0,139.0,1228.0
+Iron,Fe,26,55.8452,4,8,d,Transition metal,solid,1811.0,3134.0,1.83,126.0,132.0,1728.0
+Cobalt,Co,27,58.9331944,4,9,d,Transition metal,solid,1768.0,3200.0,1.88,125.0,126.0,1790.0
+Nickel,Ni,28,58.69344,4,10,d,Transition metal,solid,1728.0,3003.0,1.91,124.0,124.0,1783.0
+Copper,Cu,29,63.5463,4,11,d,Transition metal,solid,1357.77,2835.0,1.9,128.0,132.0,1509.0
+Zinc,Zn,30,65.382,4,12,d,Transition metal,solid,692.68,1180.0,1.65,134.0,122.0,610.0
+Gallium,Ga,31,69.7231,4,13,p,Post-transition metal,solid,302.9146,2673.0,1.81,135.0,122.0,1310.0
+Germanium,Ge,32,72.6308,4,14,p,Metalloid,solid,1211.4,3106.0,2.01,122.0,122.0,1644.0
+Arsenic,As,33,74.9215956,4,15,p,Metalloid,solid,1090.15,887.15,2.18,119.0,119.0,553.0
+Selenium,Se,34,78.9718,4,16,p,Reactive nonmetal,solid,494.0,958.0,2.55,120.0,120.0,500.0
+Bromine,Br,35,79.904,4,17,p,Reactive nonmetal,liquid,265.8,332.0,2.96,120.0,120.0,185.0
+Krypton,Kr,36,83.7982,4,18,p,Noble gas,gas,115.78,119.93,3.0,87.0,116.0,59.0
+Rubidium,Rb,37,85.46783,5,1,s,Alkali metal,solid,312.45,961.0,0.82,248.0,220.0,434.0
+Strontium,Sr,38,87.621,5,2,s,Alkaline earth metal,solid,1050.0,1650.0,0.95,215.0,195.0,796.0
+Yttrium,Y,39,88.905842,5,3,d,Transition metal,solid,1799.0,3203.0,1.22,180.0,190.0,1883.0
+Zirconium,Zr,40,91.2242,5,4,d,Transition metal,solid,2128.0,4650.0,1.33,160.0,175.0,2639.0
+Niobium,Nb,41,92.906372,5,5,d,Transition metal,solid,2750.0,5017.0,1.6,146.0,164.0,2942.0
+Molybdenum,Mo,42,95.951,5,6,d,Transition metal,solid,2896.0,4912.0,2.16,139.0,154.0,2742.0
+Technetium,Tc,43,98.0,5,7,d,Transition metal,solid,2430.0,4538.0,1.9,136.0,147.0,2727.0
+Ruthenium,Ru,44,101.072,5,8,d,Transition metal,solid,2607.0,4423.0,2.2,134.0,146.0,2588.0
+Rhodium,Rh,45,102.905502,5,9,d,Transition metal,solid,2237.0,3968.0,2.28,134.0,142.0,2288.0
+Palladium,Pd,46,106.421,5,10,d,Transition metal,solid,1828.05,3236.0,2.2,137.0,139.0,1721.0
+Silver,Ag,47,107.86822,5,11,d,Transition metal,solid,1234.93,2435.0,1.93,144.0,145.0,1283.0
+Cadmium,Cd,48,112.4144,5,12,d,Transition metal,solid,594.22,1040.0,1.69,151.0,144.0,530.0
+Indium,In,49,114.8181,5,13,p,Post-transition metal,solid,429.7485,2345.0,1.78,167.0,142.0,1196.0
+Tin,Sn,50,118.7107,5,14,p,Post-transition metal,solid,505.08,2875.0,1.96,140.0,139.0,1497.0
+Antimony,Sb,51,121.7601,5,15,p,Metalloid,solid,903.78,1908.0,2.05,140.0,139.0,807.0
+Tellurium,Te,52,127.603,5,16,p,Metalloid,solid,722.66,1261.0,2.1,140.0,138.0,
+Iodine,I,53,126.904473,5,17,p,Reactive nonmetal,solid,386.85,457.4,2.66,140.0,139.0,260.0
+Xenon,Xe,54,131.2936,5,18,p,Noble gas,gas,161.4,165.051,2.6,108.0,140.0,83.0
+Cesium,Cs,55,132.905452,6,1,s,Alkali metal,solid,301.7,944.0,0.79,265.0,244.0,
+Barium,Ba,56,137.3277,6,2,s,Alkaline earth metal,solid,1000.0,2118.0,0.89,222.0,215.0,911.0
+Lanthanum,La,57,138.905477,6,,f,Lanthanoid,solid,1193.0,3737.0,1.1,187.0,207.0,2005.0
+Cerium,Ce,58,140.1161,6,,f,Lanthanoid,solid,1068.0,3716.0,1.12,181.8,204.0,1992.0
+Praseodymium,Pr,59,140.907662,6,,f,Lanthanoid,solid,1208.0,3403.0,1.13,182.0,203.0,1771.0
+Neodymium,Nd,60,144.2423,6,,f,Lanthanoid,solid,1297.0,3347.0,1.14,181.0,201.0,1595.0
+Promethium,Pm,61,145.0,6,,f,Lanthanoid,solid,1315.0,3273.0,1.13,183.0,199.0,
+Samarium,Sm,62,150.362,6,,f,Lanthanoid,solid,1345.0,2173.0,1.17,180.0,198.0,1001.0
+Europium,Eu,63,151.9641,6,,f,Lanthanoid,solid,1099.0,1802.0,1.2,180.0,198.0,863.0
+Gadolinium,Gd,64,157.253,6,,f,Lanthanoid,solid,1585.0,3273.0,1.2,180.0,196.0,1836.0
+Terbium,Tb,65,158.925352,6,,f,Lanthanoid,solid,1629.0,3396.0,1.2,177.0,194.0,1789.0
+Dysprosium,Dy,66,162.5001,6,,f,Lanthanoid,solid,1680.0,2840.0,1.22,178.0,192.0,1378.0
+Holmium,Ho,67,164.930332,6,,f,Lanthanoid,solid,1734.0,2873.0,1.23,176.0,192.0,1432.0
+Erbium,Er,68,167.2593,6,,f,Lanthanoid,solid,1802.0,3141.0,1.24,176.0,189.0,1504.0
+Thulium,Tm,69,168.934222,6,,f,Lanthanoid,solid,1818.0,2223.0,1.25,176.0,190.0,1117.0
+Ytterbium,Yb,70,173.0451,6,,f,Lanthanoid,solid,1097.0,1469.0,1.1,176.0,187.0,736.0
+Lutetium,Lu,71,174.96681,6,,d,Lanthanoid,solid,1925.0,3675.0,1.27,174.0,187.0,1906.0
+Hafnium,Hf,72,178.492,6,4,d,Transition metal,solid,2506.0,4876.0,1.3,159.0,175.0,2689.0
+Tantalum,Ta,73,180.947882,6,5,d,Transition metal,solid,3290.0,5731.0,1.5,146.0,170.0,3297.0
+Tungsten,W,74,183.841,6,6,d,Transition metal,solid,3695.0,6203.0,2.36,139.0,162.0,3477.0
+Rhenium,Re,75,186.2071,6,7,d,Transition metal,solid,3459.0,5903.0,1.9,137.0,151.0,3303.0
+Osmium,Os,76,190.233,6,8,d,Transition metal,solid,3306.0,5285.0,2.2,135.0,144.0,3160.0
+Iridium,Ir,77,192.2173,6,9,d,Transition metal,solid,2719.0,4403.0,2.2,136.0,141.0,2713.0
+Platinum,Pt,78,195.0849,6,10,d,Transition metal,solid,2041.4,4098.0,2.28,139.0,136.0,2330.0
+Gold,Au,79,196.9665695,6,11,d,Transition metal,solid,1337.33,3243.0,2.54,144.0,136.0,1646.0
+Mercury,Hg,80,200.5923,6,12,d,Transition metal,liquid,234.321,629.88,2.0,151.0,132.0,315.0
+Thallium,Tl,81,204.38,6,13,p,Post-transition metal,solid,577.0,1746.0,1.62,170.0,145.0,882.0
+Lead,Pb,82,207.21,6,14,p,Post-transition metal,solid,600.61,2022.0,1.87,175.0,146.0,978.0
+Bismuth,Bi,83,208.980401,6,15,p,Post-transition metal,solid,544.7,1837.0,2.02,156.0,148.0,941.0
+Polonium,Po,84,209.0,6,16,p,Post-transition metal,solid,527.0,1235.0,2.0,168.0,140.0,
+Astatine,At,85,210.0,6,17,p,Metalloid,solid,575.0,610.0,2.2,127.0,150.0,361.0
+Radon,Rn,86,222.0,6,18,p,Noble gas,gas,202.0,211.5,2.2,120.0,150.0,110.0
+Francium,Fr,87,223.0,7,1,s,Alkali metal,solid,300.0,950.0,0.79,,260.0,404.0
+Radium,Ra,88,226.0,7,2,s,Alkaline earth metal,solid,973.0,2010.0,0.9,,221.0,819.0
+Actinium,Ac,89,227.0,7,,f,Actinoid,solid,1500.0,3500.0,1.1,,215.0,
+Thorium,Th,90,232.03774,7,,f,Actinoid,solid,2023.0,5061.0,1.3,179.8,206.0,2633.0
+Protactinium,Pa,91,231.035882,7,,f,Actinoid,solid,1841.0,4300.0,1.5,163.0,200.0,
+Uranium,U,92,238.028913,7,,f,Actinoid,solid,1405.3,4404.0,1.38,156.0,196.0,2325.0
+Neptunium,Np,93,237.0,7,,f,Actinoid,solid,912.0,4447.0,1.36,155.0,190.0,2194.0
+Plutonium,Pu,94,244.0,7,,f,Actinoid,solid,912.5,3505.0,1.28,159.0,187.0,1756.0
+Americium,Am,95,243.0,7,,f,Actinoid,solid,1449.0,2880.0,1.3,173.0,180.0,1239.0
+Curium,Cm,96,247.0,7,,f,Actinoid,solid,1613.0,3383.0,1.3,174.0,169.0,1788.0
+Berkelium,Bk,97,247.0,7,,f,Actinoid,solid,1259.0,2900.0,1.3,170.0,,
+Californium,Cf,98,251.0,7,,f,Actinoid,solid,1173.0,1743.0,1.3,,,
+Einsteinium,Es,99,252.0,7,,f,Actinoid,solid,1133.0,1269.0,1.3,,,
+Fermium,Fm,100,257.0,7,,f,Actinoid,solid,1800.0,,1.3,,,
+Mendelevium,Md,101,258.0,7,,f,Actinoid,solid,1100.0,,1.3,,,
+Nobelium,No,102,259.0,7,,f,Actinoid,solid,1100.0,,1.3,,,
+Lawrencium,Lr,103,266.0,7,,d,Actinoid,solid,1900.0,,,,,
+Dubnium,Db,105,268.0,7,5,d,Transition metal,solid,,,,139.0,149.0,
+Seaborgium,Sg,106,269.0,7,6,d,Transition metal,solid,,,,132.0,143.0,
+Bohrium,Bh,107,270.0,7,7,d,Transition metal,solid,,,,128.0,141.0,
+Hassium,Hs,108,269.0,7,8,d,Transition metal,solid,,,,126.0,134.0,
+Meitnerium,Mt,109,278.0,7,9,d,Transition metal,solid,,,,128.0,129.0,
+Darmstadtium,Ds,110,281.0,7,10,d,Transition metal,solid,,,,132.0,128.0,
+Roentgenium,Rg,111,282.0,7,11,d,Transition metal,solid,,,,138.0,121.0,
+Ununbium,Uub,112,285.0,7,12,d,Transition metal,gas,,,,147.0,122.0,
+Ununtrium,Uut,113,286.0,7,13,p,Post-transition metal,solid,700.0,1430.0,,170.0,176.0,
+Ununquadium,Uuq,114,289.0,7,14,p,Post-transition metal,solid,340.0,420.0,,180.0,174.0,
+Ununpentium,Uup,115,289.0,7,15,p,Post-transition metal,solid,670.0,1400.0,,187.0,157.0,
+Ununhexium,Uuh,116,293.0,7,16,p,Post-transition metal,solid,708.5,1085.0,,183.0,164.0,
+Ununseptium,Uus,117,294.0,7,17,p,Post-transition metal,solid,723.0,883.0,,138.0,156.5,
+Ununoctium,Uuo,118,294.0,7,18,p,Noble gas,solid,,350.0,,,157.0,
